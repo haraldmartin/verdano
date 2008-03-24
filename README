@@ -1,0 +1,7 @@
+Verdano
+=======
+
+Tired of see the 1999-ish font "Verdana" every time you get a local error page in Rails? 
+Now you don't have to. With this plugin the error pages will use Arial or Helvetica instead—finally!
+
+Copyright (c) 2007-2008 Martin Ström, released under the MIT license
